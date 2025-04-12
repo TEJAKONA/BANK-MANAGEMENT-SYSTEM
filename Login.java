@@ -95,12 +95,6 @@ public class Login extends JFrame implements ActionListener
         b3.addActionListener(this);
         add(b3);
 
-
-
-
-
-
-
         ImageIcon i3=new ImageIcon(ClassLoader.getSystemResource("icon/backbg.png"));
         Image i31=i3.getImage().getScaledInstance(720,400,Image.SCALE_DEFAULT);
         ImageIcon i32=new ImageIcon(i31);
