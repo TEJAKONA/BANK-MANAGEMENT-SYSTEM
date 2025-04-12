@@ -1,4 +1,3 @@
-package bank.management.system;
 
 import com.toedter.calendar.JDateChooser;
 
